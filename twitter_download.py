@@ -4,10 +4,10 @@ import tweepy
 from zipfile import *
 import shutil
 
-consumer_key = "5LSrNshaKejTXNZBVe862duoE"
-consumer_secret = "DIffWlrW5GlpCsNStjUwZgnFlWMbHYjxhRuJmchPqha2d9HdRc"
-access_token = "972188754713522177-3kFUwewWYdk7pzURDf3aJFBRakWYI8p"
-access_token_secret = "lWNY8wFJJSKe54NGVQjRCzgW5Jl6Cbcqz3aBlEcHCm1X7"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 name_of_data_directory = 'twitter_data'
 
 
